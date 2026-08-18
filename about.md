@@ -10,8 +10,7 @@ seo:
 
 # EGN 4060C: Introduction to Robotics
 
-**Catalog:** ENGR-ECE 3(2,3)  
-**Term:** Spring 2026  
+**Term:** Fall 2026  
 **Credit Hours:** 3.00
 
 |  | Time | Location |
