@@ -1,11 +1,11 @@
 ---
-name: Liam Russel
-role: Teaching Assistant
+name: Liam Russell
+role: Graduate Teaching Assistant
 email: liam.russell@ucf.edu
 # website: 
-photo: kevin.jpg
+photo: li758425@ucf.edu-2.jpg
 meta:
-  Office Hours: Monday and Thursday, following the lab sessions
+  Office Hours: Thursday and Friday, following the lab sessions
   Office: CMMS 102B
 ---
 
