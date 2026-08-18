@@ -1,23 +1,68 @@
 ---
-title: Basic Data Structures
+title: Foundations of Intelligent Robotics
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Mon, Sep 14
+: Robotic Behaviors I
+  :
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+Wed, Sep 16
+: Robotic Behaviors II
+  :
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+**Lab 4**{: .label .label-purple }
+: [-](#)
+  : [-](#)
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+Mon, Sep 21
+: Perception and Behaviors I
+  :
+
+Wed, Sep 23
+: Perception and Behaviors II
+  : **Team Project Proposal Due**{: .label .label-purple }
+
+**Lab 5**{: .label .label-purple }
+: [-](#)
+  : [-](#)
+
+Mon, Sep 28
+: **Presentation**{: .label .label-purple } Team Project Proposal
+  :
+
+Wed, Sep 30
+: **Presentation**{: .label .label-purple } Team Project Proposal
+  :
+
+**Lab 6**{: .label .label-purple }
+: [-](#)
+  : [-](#)
+
+Mon, Oct 5
+: Behavioral Coordination I
+  :
+
+Wed, Oct 7
+: Behavioral Coordination II
+  :
+
+**Lab 7**{: .label .label-purple }
+: [-](#)
+  : [-](#)
+
+Mon, Oct 5
+: Locomotion
+  :
+
+Wed, Oct 7
+: Sensors and Sensing I
+  :
+
+**Lab 8**{: .label .label-purple }
+: [-](#)
+  : [-](#)
+
+Wed, Oct 12
+: Sensors and Sensing I
+  :

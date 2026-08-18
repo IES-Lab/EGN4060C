@@ -89,18 +89,20 @@
 
     .time,
     .location {
-      @extend .fs-2;
+      @extend .fs-1;
     }
 
     &.lecture {
       background-color: $grey-dk-100;
     }
 
-    &.section {
+    &.lab {
       background-color: $purple-100;
     }
 
-    &.office-hours {
+    &.ta-office-hours,
+    &.ta-oh,
+    &.office-hours{
       background-color: $blue-100;
     }
   }

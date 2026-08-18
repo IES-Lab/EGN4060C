@@ -1,33 +1,83 @@
 ---
-layout: page
-title: About
-description: >-
-    Course policies and information.
+layout: home
+title: 'EGN 4060C: Introduction to Robotics'
+nav_exclude: true
+permalink: /:path/
+seo:
+  type: Course
+  name: 'EGN 4060C: Introduction to Robotics'
 ---
 
-# About
-{:.no_toc}
+# EGN 4060C: Introduction to Robotics
 
-## Table of contents
-{: .no_toc .text-delta }
+**Catalog:** ENGR-ECE 3(2,3)  
+**Term:** Spring 2026  
+**Credit Hours:** 3.00
 
-1. TOC
-{:toc}
+## Lectures and Labs
 
----
+| Component | Time | Location |
+|---|---|---|
+| **Lectures** | 3:00 PM–4:20 PM, Monday and Wednesday | HS1 116 |
+| **Labs** | 5:00 PM–7:50 PM, Monday, Wednesday, Thursday, or Friday, depending on the assigned lab section | CMMS 102B |
 
-## About
+## Course Description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+Introduction to Robotics is a broad survey course that provides an overview of the theory and applications of intelligent robotics, including robot system architecture, perception, planning algorithms, robot learning, and human-robot interaction.
 
-## Lecture
+The course is designed to familiarize students with how artificial intelligence (AI) has influenced robotics by enabling autonomous capabilities that allow robots to interact with their environments and with other agents, including robots and humans. The primary goal of the course is for students to understand which algorithms and techniques are appropriate for a given robotic application and why.
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+The course also includes a laboratory component that provides hands-on experience with real robotic systems. By the end of the course, students will work in teams to prototype a solution to a robotics problem of their choice by applying the knowledge and techniques introduced throughout the course.
 
-## Resources
+The course content is organized into four parts:
+- **Part 1: Foundations of Intelligent Robotics**  
+  Introduces a framework for understanding AI in robotics and how intelligent robotic systems have evolved.
+- **Part 2: Perception and Action**  
+  Focuses on how robots perceive their environments and generate actions in response to sensory information.
+- **Part 3: Planning and Autonomy**  
+  Covers deliberative functions associated with intelligence, including planning, decision-making, and autonomous behavior.
+- **Part 4: Robots and Other Agents**  
+  Introduces concepts required for robots to interact and collaborate with other agents, including humans and other robots.
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+## Course Materials and Resources
 
-## Assignments
+**Required:** 
+- Robin R. Murphy, *Introduction to AI Robotics* (Second Edition).
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+**Recommended:**
+- Gregory Dudek and Michael Jenkin, *Computational Principles of Mobile Robotics*.
+- Steven M. LaValle, *Planning Algorithms*.
+- Sebastian Thrun, Wolfram Burgard, and Dieter Fox, *Probabilistic Robotics*.
+
+
+## Prerequisites
+
+Students must earn a minimum grade of C in one of:
+- COP 3223C (Introduction to Programming with C)
+-  EGN 3211 (Engineering Analysis and Computation)
+
+and, one of：
+ - COP 3503C (Computer Science II)
+ - EEL 4742C (Embedded Systems)
+ - EEL 3657 (Linear Control Systems)
+ - EGN 3321 (Engineering Analysis – Dynamics).
+
+
+## Course Staff
+
+### Instructor
+
+{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+
+{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
+{% assign num_teaching_assistants = teaching_assistants | size %}
+{% if num_teaching_assistants != 0 %}
+### Teaching Assistants
+
+{% for staffer in teaching_assistants %}
+{{ staffer }}
+{% endfor %}
+{% endif %}

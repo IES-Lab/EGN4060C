@@ -1,23 +1,36 @@
 ---
-title: Introduction to Java
+title: Foundations of Intelligent Robotics
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Wed, Aug 26
+: History of Intelligent Robotics
+  :
+: **Guideline**{: .label .label-purple } Team Project Proposal
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+**Lab 1**{: .label .label-purple }
+: [-](#)
+  : [-](#)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+Mon, Aug 31
+: Automation and Autonomy
+  :
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
+Wed, Sep 2
+: Intelligent Robotic Systems I
+  :
 
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+**Lab 2**{: .label .label-purple }
+: [-](#)
+  : [-](#)
+
+Mon, Sep 7
+: Intelligent Robotic Systems II
+  :
+
+Wed, Sep 9
+: Intelligent Robotic Systems III
+  :
+  
+**Lab 3**{: .label .label-purple }
+: [-](#)
+  : [-](#)
