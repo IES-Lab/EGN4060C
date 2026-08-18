@@ -14,9 +14,7 @@ seo:
 **Term:** Spring 2026  
 **Credit Hours:** 3.00
 
-## Lectures and Labs
-
-| Component | Time | Location |
+|  | Time | Location |
 |---|---|---|
 | **Lectures** | 3:00 PM–4:20 PM, Monday and Wednesday | HS1 116 |
 | **Labs** | 5:00 PM–7:50 PM, Monday, Wednesday, Thursday, or Friday, depending on the assigned lab section | CMMS 102B |

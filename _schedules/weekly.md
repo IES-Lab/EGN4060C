@@ -28,7 +28,7 @@ schedule:
         start: 5:00 PM
         end: 7:50 PM
         location: CMMS 102B
-      - name: TA Office Hours
+      - name: Office Hours
         start: 7:50 PM
         end: 8:30 PM
   - name: Tuesday
@@ -42,7 +42,7 @@ schedule:
         start: 5:00 PM
         end: 7:50 PM
         location: CMMS 102B
-      - name: TA Office Hours
+      - name: Office Hours
         start: 7:50 PM
         end: 8:30 PM
   - name: Thursday
@@ -51,7 +51,7 @@ schedule:
         start: 5:00 PM
         end: 7:50 PM
         location: CMMS 102B
-      - name: TA Office Hours
+      - name: Office Hours
         start: 7:50 PM
         end: 8:30 PM
   - name: Friday
@@ -60,7 +60,7 @@ schedule:
         start: 5:00 PM
         end: 7:50 PM
         location: CMMS 102B
-      - name: TA Office Hours
+      - name: Office Hours
         start: 7:50 PM
         end: 8:30 PM
 ---
