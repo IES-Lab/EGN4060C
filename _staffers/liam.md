@@ -1,6 +1,6 @@
 ---
 name: Liam Russell
-role: Graduate Teaching Assistant
+role: Teaching Assistant
 email: liam.russell@ucf.edu
 # website: 
 photo: li758425@ucf.edu-2.jpg
