@@ -7,30 +7,26 @@ Wed, Aug 26
   :
 : **Guideline**{: .label .label-purple } Team Project Proposal
 
-**Lab 1**{: .label .label-purple }
-: [-](#)
-  : [-](#)
-
 Mon, Aug 31
 : Automation and Autonomy
   :
 
+**Lab 1**{: .label .label-purple }
+: Introduction to ROS
+  : [-](#)
+
 Wed, Sep 2
 : Intelligent Robotic Systems I
+  :
+
+Mon, Sep 7
+: Intelligent Robotic Systems II
   :
 
 **Lab 2**{: .label .label-purple }
 : [-](#)
   : [-](#)
 
-Mon, Sep 7
-: Intelligent Robotic Systems II
-  :
-
 Wed, Sep 9
 : Intelligent Robotic Systems III
   :
-  
-**Lab 3**{: .label .label-purple }
-: [-](#)
-  : [-](#)
