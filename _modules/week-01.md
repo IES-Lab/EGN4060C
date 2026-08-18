@@ -11,10 +11,6 @@ Mon, Aug 31
 : Automation and Autonomy
   :
 
-**Lab 1**{: .label .label-purple }
-: Introduction to ROS
-  : [-](#)
-
 Wed, Sep 2
 : Intelligent Robotic Systems I
   :
@@ -23,8 +19,8 @@ Mon, Sep 7
 : Intelligent Robotic Systems II
   :
 
-**Lab 2**{: .label .label-purple }
-: [-](#)
+**Lab 1**{: .label .label-purple }
+: Introduction to ROS
   : [-](#)
 
 Wed, Sep 9
