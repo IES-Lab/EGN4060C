@@ -3,9 +3,9 @@ name: Chinmay Dhanraj Nehate
 role: Teaching Assistant
 email: chinmaydhanraj.nehate@ucf.edu
 # website: 
-photo: kevin.jpg
+photo: chinmay.jpg
 meta:
-  Office Hours: Tuesday and Friday, following the lab sessions
+  Office Hours: Monday and Tuesday, following the lab sessions
   Office: CMMS 102B
 ---
 
